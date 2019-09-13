@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2e5ccf8-1af8-4eb0-b7d7-e45ccb36267f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="91767d12-c78e-4455-b6a4-97c515983e0d" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Software\SpecialSoftware\Maven\respository" />
+        <option name="userSettingsFile" value="D:\Software\SpecialSoftware\Maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PKcSwnDubA0Kwnnc40voDwc6rg" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Example_SpringinAction" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15351993" />
+    <property name="project.structure.side.proportion" value="0.37" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FutureTest">
+    <configuration name="BlockingQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch14.blockingQueue.BlockingQueueTest" />
+      <module name="Example_Core_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v1ch14.blockingQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForkJoinTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch14.forkJoin.ForkJoinTest" />
+      <module name="Example_Core_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v1ch14.forkJoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FutureTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch14.future.FutureTest" />
+      <module name="Example_Core_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v1ch14.future.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynchBankTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch14.synch2.SynchBankTest2" />
+      <module name="Example_Core_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v1ch14.synch2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnsynchBankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch14.unsynch.UnsynchBankTest" />
+      <module name="Example_Core_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v1ch14.unsynch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FutureTest" />
+        <item itemvalue="Application.ForkJoinTest" />
+        <item itemvalue="Application.BlockingQueueTest" />
+        <item itemvalue="Application.UnsynchBankTest" />
+        <item itemvalue="Application.SynchBankTest2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructuralSearchPlugin">
+    <searchConfiguration name="try statements without resources and catch blocks" created="1568122192899" text="try ($ResourceType$ $resource$ = $init$; $expression$) {&#10;  $TryStatement$;&#10;} catch($ExceptionType$ $Exception$) {&#10;  $CatchStatement$;&#10;}" recursive="true" caseInsensitive="true" type="JAVA" pattern_context="default" scope_type="DIRECTORY" scope_descriptor="*D:\Programming\Java\Java_Programe_Idea\Example_Core_Java\src\v1ch14\future" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="ResourceType" within="" contains="" />
+      <constraint name="resource" minCount="0" maxCount="0" within="" contains="" />
+      <constraint name="init" within="" contains="" />
+      <constraint name="expression" minCount="0" maxCount="0" within="" contains="" />
+      <constraint name="TryStatement" minCount="0" maxCount="2147483647" within="" contains="" />
+      <constraint name="ExceptionType" within="" contains="" />
+      <constraint name="Exception" minCount="0" maxCount="0" within="" contains="" />
+      <constraint name="CatchStatement" minCount="0" maxCount="0" target="true" within="" contains="" />
+    </searchConfiguration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Xudon\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2e5ccf8-1af8-4eb0-b7d7-e45ccb36267f" name="Default Changelist" comment="" />
+      <created>1555686356181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555686356181</updated>
+      <workItem from="1555686361720" duration="162000" />
+      <workItem from="1555686586090" duration="111000" />
+      <workItem from="1555712228434" duration="9447000" />
+      <workItem from="1555754023098" duration="1455000" />
+      <workItem from="1555800610787" duration="7328000" />
+      <workItem from="1556059728042" duration="3070000" />
+      <workItem from="1556142957411" duration="4747000" />
+      <workItem from="1556232778498" duration="324000" />
+      <workItem from="1556233226578" duration="315000" />
+      <workItem from="1556279353227" duration="3457000" />
+      <workItem from="1556286680940" duration="2041000" />
+      <workItem from="1556290328680" duration="225000" />
+      <workItem from="1556290812223" duration="141000" />
+      <workItem from="1556291050999" duration="158000" />
+      <workItem from="1556291399172" duration="225000" />
+      <workItem from="1556291666535" duration="276000" />
+      <workItem from="1556291999982" duration="651000" />
+      <workItem from="1556292691359" duration="295000" />
+      <workItem from="1556293044725" duration="225000" />
+      <workItem from="1556294693413" duration="131000" />
+      <workItem from="1556318691399" duration="229000" />
+      <workItem from="1556318982565" duration="285000" />
+      <workItem from="1556319390345" duration="778000" />
+      <workItem from="1556320315307" duration="22000" />
+      <workItem from="1556320415183" duration="30000" />
+      <workItem from="1556320530453" duration="15000" />
+      <workItem from="1556320726576" duration="88000" />
+      <workItem from="1556320865381" duration="32000" />
+      <workItem from="1556320954576" duration="173000" />
+      <workItem from="1556321220294" duration="18000" />
+      <workItem from="1556321353082" duration="124000" />
+      <workItem from="1556321531570" duration="3709000" />
+      <workItem from="1556453043892" duration="4038000" />
+      <workItem from="1556491227605" duration="4960000" />
+      <workItem from="1556636536079" duration="3532000" />
+      <workItem from="1556663524829" duration="8425000" />
+      <workItem from="1556750939222" duration="5078000" />
+      <workItem from="1556836502427" duration="2452000" />
+      <workItem from="1556931340789" duration="2977000" />
+      <workItem from="1556956260845" duration="978000" />
+      <workItem from="1557066464232" duration="913000" />
+      <workItem from="1557099071612" duration="1517000" />
+      <workItem from="1557236655694" duration="3036000" />
+      <workItem from="1557271132829" duration="3859000" />
+      <workItem from="1557409493606" duration="1735000" />
+      <workItem from="1557619895076" duration="2578000" />
+      <workItem from="1557841334199" duration="1038000" />
+      <workItem from="1557878988685" duration="339000" />
+      <workItem from="1558841118475" duration="2058000" />
+      <workItem from="1559044372196" duration="2834000" />
+      <workItem from="1559086425776" duration="1221000" />
+      <workItem from="1560343652606" duration="660000" />
+      <workItem from="1560470418491" duration="1328000" />
+      <workItem from="1560479397530" duration="1409000" />
+      <workItem from="1560520795423" duration="2375000" />
+      <workItem from="1560552519430" duration="1518000" />
+      <workItem from="1560640144717" duration="572000" />
+      <workItem from="1560726189810" duration="670000" />
+      <workItem from="1561040062089" duration="1184000" />
+      <workItem from="1561069555073" duration="1315000" />
+      <workItem from="1561157206905" duration="3084000" />
+      <workItem from="1561771625838" duration="8703000" />
+      <workItem from="1561849087978" duration="1444000" />
+      <workItem from="1562024888484" duration="2896000" />
+      <workItem from="1562539061955" duration="2031000" />
+      <workItem from="1562679868367" duration="622000" />
+      <workItem from="1562681547941" duration="2526000" />
+      <workItem from="1562711640627" duration="1287000" />
+      <workItem from="1562937504277" duration="671000" />
+      <workItem from="1564063415692" duration="24000" />
+      <workItem from="1565511467760" duration="12193000" />
+      <workItem from="1565622773093" duration="310000" />
+      <workItem from="1565623614052" duration="408000" />
+      <workItem from="1565624187003" duration="491000" />
+      <workItem from="1565625023135" duration="149000" />
+      <workItem from="1565626244994" duration="91000" />
+      <workItem from="1565710215283" duration="1657000" />
+      <workItem from="1565712335946" duration="177000" />
+      <workItem from="1565712951018" duration="497000" />
+      <workItem from="1565713495103" duration="1402000" />
+      <workItem from="1566087058383" duration="1999000" />
+      <workItem from="1567848338071" duration="4240000" />
+      <workItem from="1567924644742" duration="5830000" />
+      <workItem from="1568034986967" duration="594000" />
+      <workItem from="1568072037968" duration="735000" />
+      <workItem from="1568121852011" duration="2108000" />
+      <workItem from="1568158158300" duration="1357000" />
+      <workItem from="1568245207877" duration="3165000" />
+      <workItem from="1568333764952" duration="2424000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>unnamed</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.36415094" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Example_Core_Java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Example_Core_Java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.36415094" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
